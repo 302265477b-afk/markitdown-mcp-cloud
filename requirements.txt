@@ -1,0 +1,4 @@
+markitdown[pdf]
+mcp[cli]>=1.27
+uvicorn
+starlette
